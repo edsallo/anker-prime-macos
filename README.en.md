@@ -2,7 +2,7 @@
 
 [Русская документация — основной язык](README.md)
 
-An unofficial standalone application for **Anker Prime A2345, 250 W, six USB ports**. It connects directly to the Anker cloud. Homey, Docker, Synology and another computer are not required.
+An unofficial standalone application for **Anker Prime A2345, 250 W, six USB ports**. It connects directly to the Anker cloud. **The application works only when the charger is connected via Wi-Fi with internet access.**
 
 ## Download and install
 
