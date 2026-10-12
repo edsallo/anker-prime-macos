@@ -24,6 +24,12 @@ Node.js is bundled. Installing development tools is **not necessary** to use the
 
 The build is locally signed but **not Apple-notarized**. macOS may block its first launch. If you downloaded it from this repository and trust it, use the app-specific opening permission offered by macOS in **System Settings → Privacy & Security** after attempting to open it. Exact labels vary by OS version. Do not disable Gatekeeper globally.
 
+## If macOS blocks opening
+
+After the first launch attempt, open **System Settings → Privacy & Security**, scroll down to **Security**, and find the message about Anker Prime being blocked. The **Open Anyway** button is outlined in red in the screenshot below (the screenshot uses Russian macOS, where the button reads «Всё равно открыть»). Use this permission only for the app downloaded from this repository that you trust, then follow the macOS confirmation prompts.
+
+![First-launch permission for Anker Prime — Open Anyway highlighted in red](assets/macos-open-anyway.png)
+
 ## First connection
 
 Enter the email and password used in your Anker phone app, choose the cloud region and account registration country, then select Connect charger. Wait for your station to appear online. No account or password is embedded in the release.
