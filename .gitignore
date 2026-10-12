@@ -1,0 +1,9 @@
+dist/
+*.zip
+*.dmg
+SHA256SUMS
+Anker.iconset/
+node_modules/
+.DS_Store
+preview*.png
+__pycache__/
