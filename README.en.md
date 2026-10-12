@@ -4,6 +4,8 @@
 
 An unofficial standalone application for **Anker Prime A2345, 250 W, six USB ports**. It connects directly to the Anker cloud. **The application works only when the charger is connected via Wi-Fi with internet access.**
 
+![Anker Prime — English interface](assets/app-en.png)
+
 ## Download and install
 
 Download `Anker-Prime-macOS-Apple-Silicon.dmg` from **[Releases](https://github.com/edsallo/anker-prime-macos/releases/latest)**.
